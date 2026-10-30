@@ -1,0 +1,6 @@
+time_slot,posts,median_er,mean_er
+Prime time (21-23),462,2.23,2.75
+Evening (17-20),672,2.14,2.78
+Afternoon (12-16),730,1.91,2.38
+Morning (6-11),692,1.57,2.02
+Late night (0-5),444,0.93,1.2

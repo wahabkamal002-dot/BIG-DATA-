@@ -1,0 +1,4 @@
+sentiment,posts,median_er,mean_er
+Positive,1483,2.1,2.71
+Negative,580,1.65,2.15
+Neutral,937,1.37,1.66
